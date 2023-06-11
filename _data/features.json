@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Free Access",
+    "description": "All the services provided by Gallinula are free to use.",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Open Source",
+    "description": "We encourage open source for other student developers to learn / contribute.",
+    "image": {
+      "url": "images/features/noun_branding_1885335.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Happy Coding",
+    "description": "We encourage all the students to enjoy the process of code & play.",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  }
+]
