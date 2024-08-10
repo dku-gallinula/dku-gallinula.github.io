@@ -1,6 +1,6 @@
 ---
 title: Gallinula - for a more convenient Campus Life
-layout: home
+layout: home 
 # intro_image: "images/illustrations/pointing.svg"
 intro_image: "images/gallinula/gallinula_mock.png"
 intro_image_absolute: true
